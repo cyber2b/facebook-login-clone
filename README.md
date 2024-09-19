@@ -1,5 +1,5 @@
-# fake-login
-fake login for face book
+# facebook-login-clone
+facebook-login-clone
 this php will create a fake-login for facebook
 note:
     run this in a localhost server
